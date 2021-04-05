@@ -1,13 +1,13 @@
 {
   "name": "chapter01vitereact",
-  "homepage": "http://shamusharkin.github.io/chapter01",
+  "homepage": "https://shamusharkin.github.io/chapter01/",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "serve": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
 
   },
   "dependencies": {
