@@ -9,14 +9,14 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>Hello Vite + React!</p>
+        <p>Hello this is the Chapter 01 website</p>
         <p>
           <button onClick={() => setCount((count) => count + 1)}>
             count is: {count}
           </button>
         </p>
         <p>
-          Edit <code>App.jsx</code> and save to test HMR updates.
+          We will be the biggest surf brand in the history of the world!!!
         </p>
         <p>
           <a
